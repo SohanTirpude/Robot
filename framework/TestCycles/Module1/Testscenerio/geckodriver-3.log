@@ -1,0 +1,13 @@
+1693906363240	geckodriver	INFO	Listening on 127.0.0.1:56969
+1693906366288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\THIPPE~1\\AppData\\Local\\Temp\\rust_mozprofileZIAmub"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693906366689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693906367117	Marionette	INFO	Listening on port 56979
+Read port: 56979
+1693906367305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693906389429	Marionette	INFO	Stopped listening on port 56979
+Dynamically enable window occlusion 1

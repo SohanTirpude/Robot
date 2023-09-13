@@ -1,0 +1,12 @@
+1694627292362	geckodriver	INFO	Listening on 127.0.0.1:58002
+1694627295429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofilev5wSHA"
+1694627295935	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694627295940	Marionette	INFO	Listening on port 58012
+Read port: 58012
+WebDriver BiDi listening on ws://127.0.0.1:58003
+1694627296168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofilev5wSHA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/dc24049b-3a68-4162-ae23-73514e24be00
+JavaScript error: moz-extension://fe79abc6-2447-4714-be1a-b8d71bf1af24/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."

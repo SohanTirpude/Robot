@@ -1,0 +1,18 @@
+1694628012646	geckodriver	INFO	Listening on 127.0.0.1:58824
+1694628015509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofileleoiuX"
+1694628016360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694628016365	Marionette	INFO	Listening on port 58833
+Read port: 58833
+WebDriver BiDi listening on ws://127.0.0.1:58825
+1694628016592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofileleoiuX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58825/devtools/browser/5760b10d-7c48-466f-b11f-e9ac05c7709c
+JavaScript error: moz-extension://ad8ed9c4-dad2-4dc9-ae1d-49df6b86946a/contentTrackerLoader.js, line 18: SecurityError: The operation is insecure.
+JavaScript error: moz-extension://ad8ed9c4-dad2-4dc9-ae1d-49df6b86946a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: moz-extension://ad8ed9c4-dad2-4dc9-ae1d-49df6b86946a/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Fcontext_uri%253Dhttps%25253A%25252F%25252Fterralogic.paxanimi.ai&dsh=S-1644004890%3A1694628027508693&client_id=1042137448669-opd24bb68s2bqi9a8lvd2t367jka9md1.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fhrms-production-735b5.firebaseapp.com%2F__%2Fauth%2Fhandler&response_type=code&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+profile&service=lso&state=AMbdmDllhSE-UGy17l9rS8G07k-3AS8LHd0yiHmQSbuROVnyKJXlSBmVMRcf1vdCTh_TGO_31v0j-OyKd2PMioyTKwuw2ZZ93DxoY-ZMA4NF0FxDHONIHk5Ps9zxnH0dFRFN2jwDZkcs7AEYJ3kUNtN48slcTEoxczTmJTDSKhAkgLCvKrhf6eMPrPIU24LkU00_EXcRgdobbTfhCu1fUgfrxviO67ZpfqOMSlUz5nFlTijGuDLC0TRz3Xur_qIv65ajMS7pRz8EQyDq0-mhkLajK-P83ZxpNqJI8ZAonKl4AZmAlVW1QJYulo818sdEJNCYQDtcX6ZjYD8XVEJZkw&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP_nrs2u9FPTXe6pUzSa6bItLPzAne7p_Gei6ZWZMKW0IZW9IbUtfq3dbyFykbdCii7cnNg7aI5NRYVu2V8wdt7wZ5uS1bny8NjQpY6eZVi6qwxYBkcrSNcGQ_xElyaG1iN4u_dB8X5iTzCqknpM3D_kH8fiXTECMD46Vg9XKuA6MSGmib8vJChKsacUfB_WbZzp88lU0zCBNTKnA87ObZOSr1rj2A1AF-SzRwrwy4S1x_IUt8lqUj6qxNt-ybHSK3nnaHjG4KOxUVEDTWwFDkproRWxGvPa-HtBSiDWU6W8Sb-TfWqUDPECvwocEqdBo9reQ_X2Erk1bpI9c-KwVT1axXq1icpcwlmrjvV1xCZdf9cibyDJ4iLkTDsJfPwDPKxFSCALaN1T0H7UEeHzSRUQ8Gnfh2uIvqblqOKU9bkx7N41i3vhAqqNF4biGSXjyIvbU6Frbgoq9tvUntjtvueuwRrJC89TVIb23mtnsx7qDLwk9_PrsRNv_5U65lWXFG3oJ7x%26as%3DS-1644004890%253A1694628027508693%26client_id%3D1042137448669-opd24bb68s2bqi9a8lvd2t367jka9md1.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fhrms-production-735b5.firebaseapp.com&rart=ANgoxcdMopwAV81a3YwtEt_fmXusbKDjnHLpcZd_7Eu4UCONZ0OXbszARTxUvJ0p3SEDw6Mm3ertrbDYfa9FrwUILwzvArte4w line 5 > injectedScript line 2 > eval line 4926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1694628041200	Marionette	INFO	Stopped listening on port 58833
+Dynamically enable window occlusion 1

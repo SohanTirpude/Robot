@@ -1,0 +1,19 @@
+1693906396305	geckodriver	INFO	Listening on 127.0.0.1:57024
+1693906399358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\THIPPE~1\\AppData\\Local\\Temp\\rust_mozprofilegU1YCb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693906399710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693906399982	Marionette	INFO	Listening on port 57034
+Read port: 57034
+1693906400154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/cZSlmfR8SDt076FNoYIuLG5p7zquw_7CpDxGN0dSu4o.js line 2 > eval line 7819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript error: , line 0: uncaught exception: undefined
+1693906404923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1693906405705	Marionette	INFO	Stopped listening on port 57034
+JavaScript warning: https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js, line 1226: Script terminated by timeout at:
+onError@https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js:1226:1955
+
+Dynamically enable window occlusion 1

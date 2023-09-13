@@ -1,0 +1,18 @@
+1694627961987	geckodriver	INFO	Listening on 127.0.0.1:58689
+1694627964810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofilecMDuUY"
+1694627965559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694627965566	Marionette	INFO	Listening on port 58699
+Read port: 58699
+WebDriver BiDi listening on ws://127.0.0.1:58690
+1694627965827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\satyanam\\AppData\\Local\\Temp\\rust_mozprofilecMDuUY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58690/devtools/browser/1a5ba335-9f78-4fc2-b180-0aa43c8c20e4
+JavaScript error: moz-extension://2df45dc7-0db2-494d-99ba-6b09c85ded63/contentTrackerLoader.js, line 18: TypeError: t is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: moz-extension://2df45dc7-0db2-494d-99ba-6b09c85ded63/contentTrackerLoader.js, line 18: TypeError: t is undefined
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?opparams=%253Fcontext_uri%253Dhttps%25253A%25252F%25252Fterralogic.paxanimi.ai&dsh=S-502572284%3A1694627977146444&client_id=1042137448669-opd24bb68s2bqi9a8lvd2t367jka9md1.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Fhrms-production-735b5.firebaseapp.com%2F__%2Fauth%2Fhandler&response_type=code&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+profile&service=lso&state=AMbdmDkGdE2HMBtNfEH72fwODYSrgT8nzABrCO6LO5ps6zXWM2QjHvg23tVr13KHCruOKEa4cbnFh5fybLT95oDxhh8E5dr7aUlJ4cK9N55wYBkOpW73NaWqabqQRjHZDnFRjpC9x7w5x-wogJ6SmgLp8t-8ZNgwYqAAGa29aJKfMRWmDKFH4Ob7C1cm1ZEh4x_DwK5kwdmt6zqbG9FXz_a1q30JEQxk04YrYyyAkF6gaF3FUsVLhZS7k7VeG4EEQdTK2wldjZhm3lCzZ1ilzu3MLnU9wnGgCxXrNUBKjrx1dntv6KXiQROQONVErOI6i3F7ErezYvQgwKs3sFjnvg&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO73AARhZ3P7dZdnsYKxjz6ZgSJMCI2iKAk96VcSLdbRsi6Wc5amOxV9crHBB-o0jMsR_jLUNZ5Qe7u_k25FCYFa08ARiB7jdZ46T7rsm36CMXpOKRIhrsTyx_-xSPuFaK0MrykCminO0rJmLx0yD6rqSqPtIKlC84qFhe5lDCrXiuzXvXHXxladP2rip6gK0yoIOrMwSgfrFULDqtzJ1iY5Wdz-neQ_V89pkkpJYkYxXO-Jy3X8jNERg3AkxmcTaT_e8KdcqBp05xO6LHBmob2wFtmjLIVIZ2plEl0n8PZ2uxZWkheNxu3g6Z5IuiPUiefyH6tUHJnpu_gKcufnjc5UgtnKg4_wl5S054Xl8pwHW0FnZ3gLXYzHdnA5eQOJj2MU7y9gz4TdbaXi4789rJOCHH3JA7fBHuWEcCB7CsulqGFugOLNefCuCfb4hirQajQ9vBND9_uOfKg950VET73AF78w7UoTExbPLH8R2L_2EEtbUi8G1nQWIhZUTlCPP8MiAGE%26as%3DS-502572284%253A1694627977146444%26client_id%3D1042137448669-opd24bb68s2bqi9a8lvd2t367jka9md1.apps.googleusercontent.com%23&app_domain=https%3A%2F%2Fhrms-production-735b5.firebaseapp.com&rart=ANgoxcfjT2IqRnAJW0PUCArldlgjYqoRCzDct74ZloVgSzDfyqmpmfJlTBNJLxdpdKKXksMyauvHOaK3KUa2YH1ioRLNovBpTQ line 179 > injectedScript line 2 > eval line 2888 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript error: moz-extension://2df45dc7-0db2-494d-99ba-6b09c85ded63/contentTrackerLoader.js, line 18: TypeError: t is undefined
+1694628002080	Marionette	INFO	Stopped listening on port 58699
+Dynamically enable window occlusion 1
